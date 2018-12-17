@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SpinesDoMatterTynan\Assemblies\FixingIllogicalIdeas.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SpinesDoMatterTynan\Assemblies\FixingIllogicalIdeas.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SpinesDoMatterTynan\Source\FixingIllogicalIdeas\obj\Debug\FixingIllogicalIdeas.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SpinesDoMatterTynan\Source\FixingIllogicalIdeas\obj\Debug\FixingIllogicalIdeas.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SpinesDoMatterTynan\Source\FixingIllogicalIdeas\obj\Debug\FixingIllogicalIdeas.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SpinesDoMatterTynan\Source\FixingIllogicalIdeas\obj\Debug\FixingIllogicalIdeas.pdb
